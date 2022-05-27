@@ -1,4 +1,4 @@
-h1, h2 {
+img, h1, h2 {
     text-align: left;
     position: relative;
     left: 300px;
@@ -20,4 +20,6 @@ h1, h2 {
      width: 200px;
      border-radius: 50%;
  }
+
+
 
